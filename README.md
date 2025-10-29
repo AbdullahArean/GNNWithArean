@@ -70,7 +70,8 @@ This repository is actively maintained. Planned additions:
 
 **Original GCN Paper**: [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907) - Kipf & Welling, 2017
 
-**More Learning**:
+**More Learning**:r
+- Building GCN: https://www.graphneuralnets.com/p/basics-of-gnns 
 - Stanford CS224W: Machine Learning with Graphs
 - PyTorch Geometric (after understanding fundamentals)
 
