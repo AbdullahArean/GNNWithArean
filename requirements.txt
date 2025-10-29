@@ -1,0 +1,19 @@
+# Graph Neural Networks Learning Repository - Dependencies
+#
+# Core Scientific Computing
+numpy>=1.19.0
+scipy>=1.5.0
+
+# Graph Processing
+networkx>=2.5
+
+# Visualization
+matplotlib>=3.3.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+ipython>=7.0.0
+
+# Optional: For better notebook rendering
+ipywidgets>=7.5.0
+
